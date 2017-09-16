@@ -10,6 +10,11 @@
 #include <stdio.h>
 #include <tchar.h>
 #include<iostream>
+#include<cassert>
+#include<math.h>
+#include<vector>
+#include<unordered_map>
+#include<string>
 
 
 

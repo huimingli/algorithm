@@ -1,3 +1,6 @@
 ﻿  algorithm.cpp
+f:\cplusplus\algorithm\algorithm\algorithm.cpp(93): warning C4018: “<”: 有符号/无符号不匹配
+f:\cplusplus\algorithm\algorithm\algorithm.cpp(112): warning C4018: “<=”: 有符号/无符号不匹配
+f:\cplusplus\algorithm\algorithm\algorithm.cpp(115): warning C4018: “<=”: 有符号/无符号不匹配
   algorithm.vcxproj -> F:\cplusplus\algorithm\Debug\algorithm.exe
   algorithm.vcxproj -> F:\cplusplus\algorithm\Debug\algorithm.pdb (Full PDB)
